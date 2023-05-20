@@ -1,0 +1,10 @@
+.flexdiv{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: darksalmon;
+}
+.link{
+    text-decoration: none;
+    color: black;
+}

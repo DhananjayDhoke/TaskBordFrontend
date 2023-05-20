@@ -1,0 +1,19 @@
+.listflexdiv{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 20px;
+}
+.boxflexdiv{
+    border: 1px solid gray;
+    width: 20%;
+}
+.createlistdiv{
+    border: 1px solid grey;
+
+}
+.but{
+   margin-left: 40%;
+   border-radius: 50%;
+   padding: 10px;
+}
